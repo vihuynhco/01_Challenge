@@ -1,6 +1,7 @@
 
-# Purpose:
-## Modify and organize code source into semantic HTML format, while maintaining integrity of website.  
+# Refactoring of code and added accessibility attributes :
+## Description:
+### Modify and organize code source into semantic HTML format, while maintaining integrity of website.  
 
 **Specific areas targeted:**
 
@@ -10,6 +11,10 @@
 > - Added comments within the HTML and CSS code source. 
 > - Added accessibility alt attributes in code source.
 
+Link:
+>https://
+
+>https://
 
 Layout of website ***BEFORE*** Refactor
 
@@ -17,3 +22,5 @@ Layout of website ***BEFORE*** Refactor
 
 
 Layout of website ***AFTER*** Refactor
+![Refactor Screenshot](./Assets/Horiseon%20After%20Refactor.jpg)
+
