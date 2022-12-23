@@ -11,8 +11,8 @@
 > - Added comments within the HTML and CSS code source. 
 > - Added accessibility alt attributes in code source.
 
-Link:
->https://
+Link to github repository:
+>https://github.com/vihuynhco/01_Challenge.git
 
 >https://
 
