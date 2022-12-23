@@ -11,7 +11,8 @@
 > - Added comments within the HTML and CSS code source. 
 > - Added accessibility alt attributes in code source.
 
-Link to refactored website:
+Link to github repository:
+>https://github.com/vihuynhco/01_Challenge.git
 
 Link to github repository
 >https://github.com/vihuynhco/01_Challenge.git
