@@ -14,8 +14,8 @@
 Link to github repository:
 >https://github.com/vihuynhco/01_Challenge.git
 
-Link to github repository
->https://github.com/vihuynhco/01_Challenge.git
+Link to deployed location:
+>https://vihuynhco.github.io/01_Challenge/
 
 Layout of website ***BEFORE*** Refactor
 
