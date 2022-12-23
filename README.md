@@ -19,9 +19,9 @@ Link to deployed location:
 
 Layout of website ***BEFORE*** Refactor
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
 
 
 Layout of website ***AFTER*** Refactor
-![Refactor Screenshot](./Assets/Horiseon%20After%20Refactor.jpg)
+![website after](./assets/images/webpage%20after%20refactor.jpeg)
 
